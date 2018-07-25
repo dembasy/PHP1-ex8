@@ -5,6 +5,6 @@
     <title>ex8</title>
   </head>
   <body>
-    <p><?php $addition = 3 + 4; $multiply = 5 * 20 ; $dvsn = 45 / 5 ; echo $addition. $multiply. $dvsn; ?></p>
+    <p><?php $addition = 3 + 4; $multiply = 5 * 20 ; $dvsn = 45 / 5 ; echo $addition."&nbsp;". $multiply."&nbsp;". $dvsn; ?></p>
   </body>
 </html>
